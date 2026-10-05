@@ -1,0 +1,8 @@
+{
+  "name": "Hearth & Spice",
+  "description": "Authentic African recipes and comforting food recommendations tailored to your mood. No decision fatigue—just nourishment at your doorstep or in your kitchen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
